@@ -1,6 +1,6 @@
 # Student Management App
 
-Aplikasi berbasis web sederhana yang dikembangkan menggunakan **ReactJS** untuk memenuhi tugas pemrograman web, dengan fokus pada penerapan _React Hooks_ (`useState`, `useEffect`) serta perulangan data menggunakan fungsi `.map()`.
+Aplikasi berbasis web sederhana yang dikembangkan menggunakan **ReactJS** untuk memenuhi tugas Frontend Development, dengan fokus pada penerapan _React Hooks_ (`useState`, `useEffect`) serta perulangan data menggunakan fungsi `.map()`.
 
 ---
 
